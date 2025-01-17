@@ -1,5 +1,4 @@
 # Language-Translator
-# Language Translator by Aadrik
 
 This is a simple Language Translator application built using Python, Tkinter for the graphical user interface (GUI), and Google Translate API (`googletrans` library). The app allows users to input text in one language and select a target language to translate the text into.
 
